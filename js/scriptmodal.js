@@ -1,5 +1,15 @@
+
 $(document).ready(function(){
 
-	alert('oi');
+	$('#botao').click(function(){
+
+		$('#modal').modal({
+			
+			fadeDuration: 500,
+  			fadeDelay: 0.50
+		
+		});
+
+	});
 
 });

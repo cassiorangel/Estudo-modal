@@ -6,6 +6,23 @@
 
 }
 
+
+#modal h1{
+	background-color: black;
+	color:yellow;
+	margin: 0;
+	border-radius:4px;
+	padding: 6px;
+	font-size: 20pt;
+}
+#modal p{
+	text-align: justify;
+	padding: 10px;
+	margin: 0;
+}
+
+
+
 #botao{
 
 	  display: inline-block;
